@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React and Django**
 
-- 👨‍💻 All of my projects are available at [your portfolio or GitHub link]
-
 - 📫 How to reach me **Sameergn28@gmail.com**
 
 - ⚡ Fun fact **I love clean UI and simple code**
