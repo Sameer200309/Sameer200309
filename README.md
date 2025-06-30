@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sameer Narwade</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<!--
-**Sameer200309/Sameer200309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Project Name]
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React and Django**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [your portfolio or GitHub link]
+
+- 📫 How to reach me **Sameergn28@gmail.com**
+
+- ⚡ Fun fact **I love clean UI and simple code**
+
+---
+
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,react,nodejs" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer200309&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer200309&layout=compact&theme=radical" />
+</p>
